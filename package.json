@@ -1,0 +1,18 @@
+{
+  "name": "45scoreyumi",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "What's My Score ◄ Get Your FREE Credit Score What's My Score, Check Your Credit For Free. Get My Credit Score For Free. Start Here Today",
+  "keywords": [
+    "What's My Score",
+    "credit score walmart card",
+    "is a 745 credit score good",
+    "credit score and fico score",
+    "credit score keeps going up and down"
+  ],
+  "repository": "https://github.com/truelestor/45scoreyumi.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
